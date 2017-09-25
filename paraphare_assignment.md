@@ -1,5 +1,5 @@
 
-Machine learning is an old science, but acttract trmendous in the Big Data era.  extract features without writing and running specific programs.
+Machine learning is an old science, but acttract trmendous interest as the Big Data era.  extract features without writing and running specific programs.
 There are three catogeries.
 reinforcement learning how to interact with environment in order to maximum the rewards/benifits
 
