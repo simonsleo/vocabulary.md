@@ -1,7 +1,17 @@
 
+Machine learning is an old science, but acttract trmendous in the Big Data era.  extract features without writing and running specific programs.
+There are three catogeries.
 
 
-https://www.forbes.com/sites/bernardmarr/2016/12/06/what-is-the-difference-between-artificial-intelligence-and-machine-learning/#48a040d72742
+
+https://www.sas.com/en_us/insights/analytics/machine-learning.html
+
+Because of new computing technologies, machine learning today is not like machine learning of the past. It was born from pattern recognition and the theory that computers can learn without being programmed to perform specific tasks; researchers interested in artificial intelligence wanted to see if computers could learn from data. The iterative aspect of machine learning is important because as models are exposed to new data, they are able to independently adapt. They learn from previous computations to produce reliable, repeatable decisions and results. It’s a science that’s not new – but one that has gained fresh momentum.
+
+
+
+https://en.wikipedia.org/wiki/Machine_learning
+
 
 
 
