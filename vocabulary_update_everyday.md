@@ -1,7 +1,9 @@
 ---------------------
 20170930:
-1. champagne/champion/campaign/champignon
+1. champagne/champion/campaign/champignon/campanion
+
 
 20171001:
+
 1.provoke/provocation
 2.append/pend
