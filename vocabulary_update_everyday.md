@@ -7,3 +7,6 @@
 
 1.provoke/provocation
 2.append/pend
+
+20171002:
+1. casualties/casual
