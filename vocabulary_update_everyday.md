@@ -10,3 +10,7 @@
 
 20171002:
 1. casualties/casual
+2. plead
+3. strand
+4. speculate
+5. terracotta army/
