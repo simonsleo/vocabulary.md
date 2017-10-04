@@ -18,3 +18,4 @@
 1.madatory/compulsory/required/binding
 2. diverge/deviate/differ/
 3. margine
+4. resulting/responding images
