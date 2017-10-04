@@ -19,3 +19,4 @@
 2. diverge/deviate/differ/
 3. margine
 4. resulting/responding images
+5. canvas
