@@ -14,3 +14,7 @@
 3. strand
 4. speculate
 5. terracotta army/
+20171004:
+1.madatory/compulsory/required/binding
+2. diverge/deviate/differ/
+3. margine
