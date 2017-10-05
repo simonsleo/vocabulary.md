@@ -25,3 +25,7 @@
 1.bucket/ barrel
 2.pledge
 3.conjecture 
+4. enumerate
+5. augment
+6. shuffle
+
