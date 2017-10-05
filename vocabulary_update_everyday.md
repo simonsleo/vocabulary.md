@@ -20,3 +20,8 @@
 3. margine
 4. resulting/responding images
 5. canvas
+
+20171005:
+1.bucket/ barrel
+2.pledge
+3.conjecture 
