@@ -22,10 +22,18 @@
 5. canvas
 
 20171005:
-1.bucket/ barrel
-2.pledge
-3.conjecture 
+1. bucket/ barrel
+2. pledge
+3. conjecture 
 4. enumerate
 5. augment
 6. shuffle
+
+20171008:
+1. concatenate
+2. deter/detergent
+3. deteriorate
+4. consective
+5. dent
+
 
