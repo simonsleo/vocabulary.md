@@ -37,6 +37,7 @@
 5. dent
 
 20171009
+|                      |              |                  |                   |
 |----------------------|--------------|------------------|------------------|
 
 | New vocabulary word |	Word type	Noun: Countable, NonC, or both
