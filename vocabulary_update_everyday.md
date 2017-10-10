@@ -37,6 +37,7 @@
 5. dent
 
 20171009
+## table
 |                      |              |                  |                   |
 |----------------------|--------------|------------------|------------------|
 
@@ -44,4 +45,13 @@
 Verb: Intransitive or Transitive	|Context: copy the sentence in which you found this word	Synonyms	Definition	|Word family. Rewrite the sentence so that you use a word from its family |
 1. concatenate |	Verb	Transitive|	We concatenate all these features and feed them into other convolutional layers.	| Join, link	|connected together	| The final layer is a concatenation of feature vectors extracted from previous layers.
 
+## words
+1. impede
+
+as long as any grammar errors you make don’t impede this, then it shouldn’t be a problem.
+
+2. truancy 
+
+3. semantic
+4. syntax
 
