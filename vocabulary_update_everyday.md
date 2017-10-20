@@ -57,10 +57,12 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 
 20171019:
 
-@ - at 
+"
+@ - at
 * - asterisk / star 
 % - percent (sign) 
 ^ - caret 
 ~ - tilde 
-\# - number sign / pound sign / hash /ladder 
+# - number sign / pound sign / hash /ladder 
+"
 
