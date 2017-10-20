@@ -65,4 +65,6 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 ~ - tilde 
 # - number sign / pound sign / hash /ladder 
 ```
-
+1. grind
+2. crush
+3. halt
