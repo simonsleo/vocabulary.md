@@ -68,3 +68,11 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 1. grind
 2. crush
 3. halt
+
+20171024:
+1. pivotal
+2. haul / overhaul
+3. vacuum
+4. unison / in unison
+5. consent / dissent
+6. abstain /obtain/ retain/contain
