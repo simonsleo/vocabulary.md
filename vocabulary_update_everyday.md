@@ -76,3 +76,6 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 4. unison / in unison
 5. consent / dissent
 6. abstain /obtain/ retain/contain
+
+20171030:
+1. inferior /superior
