@@ -79,3 +79,6 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 
 20171030:
 1. inferior /superior
+2. consortium 
+3. initiative
+4. catalyst
