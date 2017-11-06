@@ -82,3 +82,6 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 2. consortium 
 3. initiative
 4. catalyst
+
+20171106:
+1.ditch: lost control on his own and went off into the ditch
