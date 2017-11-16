@@ -85,3 +85,8 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 
 20171106:
 1.ditch: lost control on his own and went off into the ditch
+
+20171116:
+1.  with the exception of:
+
+No teams from the same confederation, with the exception of Uefa, will be drawn in the same group. 
