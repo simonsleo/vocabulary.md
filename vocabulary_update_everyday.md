@@ -90,3 +90,7 @@ as long as any grammar errors you make don’t impede this, then it shouldn’t 
 1.  with the exception of:
 
 No teams from the same confederation, with the exception of Uefa, will be drawn in the same group. 
+
+20171213:
+1. sole: During bad weather, avoid boots or shoes with smooth soles and heels
+2. bulky:  Wear a heavy, bulky coat that will cushion you if you should fall.
